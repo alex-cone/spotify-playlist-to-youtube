@@ -4,9 +4,10 @@ Reads song list from a Spotify playlist and downloads the songs from YouTube
 
 # Environment Variables
 
-SPOTIPY_CLIENT_ID
-SPOTIPY_CLIENT_SECRET
-DEVELOPER_KEY (Google API key)
+SPOTIPY_CLIENT_ID*
+SPOTIPY_CLIENT_SECRET*
+DEVELOPER_KEY* (Google API key)
+SPOTIFY_PLAYLIST (optional) (playlist ID)
 
 # How to Use
 
